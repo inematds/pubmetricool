@@ -4,7 +4,18 @@ Fonte: página de preços da Metricool e central de ajuda, consultadas em 2026-0
 
 ## Contas (marcas)
 
-Uma **marca** ("brand"/`blogId`) agrupa as redes de um mesmo negócio. O limite do plano é de marcas, não de redes — dentro de uma marca você conecta Instagram + TikTok + YouTube + … sem custo extra.
+Uma **marca** ("brand"/`blogId`) agrupa as redes de um mesmo negócio.
+
+### Quantos canais cabem numa marca
+
+**Uma conta de cada rede.** Na tabela de preços, o número de conexões de cada rede é sempre igual ao número de marcas do plano — Free tem 1 marca e 1 Instagram, Starter tem 10 e 10, e assim por diante.
+
+Cabem numa marca: Facebook, Instagram, Threads, Bluesky, Pinterest, TikTok, YouTube, Twitch, Google Business Profile, Web/Blog, Facebook Ads, Google Ads, TikTok Ads — **uma conta de cada**.
+
+- **LinkedIn**: não existe no Free; entra a partir do Starter
+- **X/Twitter**: add-on pago em qualquer plano, indisponível no Free
+
+Consequência prática: **dois perfis do Instagram exigem duas marcas.** Não há como pendurar uma segunda conta da mesma rede na mesma marca.
 
 | Plano | Marcas | Preço (anual, EUR) |
 |---|---|---|
