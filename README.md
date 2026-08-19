@@ -13,6 +13,7 @@ Documenta o que foi **testado de verdade** em 2026-08-19 — um Reel + TikTok ag
 | [`docs/limites.md`](docs/limites.md) | Limites de contas, de publicação, janela de analytics, MCP vs API |
 | [`docs/recursos.md`](docs/recursos.md) | O que dá e o que **não** dá pra fazer (responder mensagens, etc.) |
 | [`docs/integracao-yt-pub-livesx.md`](docs/integracao-yt-pub-livesx.md) | Proposta de integração com o pipeline de clips |
+| [`docs/comparativo-blotato.md`](docs/comparativo-blotato.md) | Metricool vs Blotato — quando cada uma vale |
 
 ## O fluxo, em 10 linhas
 
