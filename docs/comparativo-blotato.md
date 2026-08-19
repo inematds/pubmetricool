@@ -21,8 +21,8 @@ Isso explica quase toda diferença abaixo.
 | **API REST** | só Advanced, **€43/mês** | **incluída no Starter, $29** |
 | **MCP** | ✅ até no Free | ✅ hospedado |
 | **API no trial** | — | ❌ **fica de fora** |
-| **Contas sociais** | 1 por rede, por marca | **20 contas** (Starter), sem agrupamento |
-| **Modelo de conta** | marca = 1 conta de cada rede | contas soltas |
+| **Contas sociais** | 1 por rede × nº de marcas | **20 no total** (Starter), somando tudo |
+| **Modelo de conta** | marca = 1 conta de cada rede | conexões soltas, teto único |
 | **Publicação** | ilimitada do Starter pra cima | até 900 posts/mês no TikTok |
 | **Responder DM / comentário** | ❌ **inexistente** | ✅ 1.000 contatos ativos/mês |
 | **Automação de DM** (comente X → recebe link) | ❌ | ✅ |
@@ -48,9 +48,21 @@ Na Metricool, as saídas eram `claude -p` (gasta cota Claude por post), `mcp-rem
 
 Na Blotato, **REST já vem no plano de $29**. O bloqueio deixa de existir, e mais barato que o Advanced.
 
-### 2. Resolve o problema de contas
+### 2. Contas: as duas limitam de formas diferentes — cuidado ao comparar
 
-Metricool amarra **1 conta por rede, por marca** — dois Instagrams exigem duas marcas. Blotato dá **20 contas soltas** no Starter. Os canais INEMA cabem sem ginástica de marcas.
+Não é "quem dá mais contas". É **o que cada uma restringe**:
+
+| | Metricool | Blotato |
+|---|---|---|
+| O que limita | **formato** — 1 conta por rede, por marca | **total** — 20 conexões, qualquer mistura |
+| Aperta quando | você tem 2+ contas da mesma rede | você tem muitas conexões no geral |
+| Folga quando | você tem 1 conta em muitas redes | você tem muitas contas em poucas redes |
+
+Contra o **Free** da Metricool (1 marca = 1 Instagram no total), a Blotato ganha fácil.
+
+Contra o **Starter** dela, o número inverte: €16 = 5 marcas = até 5 contas *de cada rede* = **~65 conexões**, contra 20 da Blotato por $29. **Em contagem bruta, a Metricool Starter entrega mais, por menos.**
+
+Ou seja: **não pague a Blotato por quantidade de contas** — nesse quesito ela perde pro Starter da Metricool. Pague pela **API** (que a Metricool só libera no Advanced, €43) e pelos **DMs** (que a Metricool não tem em plano nenhum).
 
 ### 3. Tem o que a Metricool não tem em plano nenhum
 
