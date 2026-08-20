@@ -14,6 +14,7 @@ Documenta o que foi **testado de verdade** em 2026-08-19 — um Reel + TikTok ag
 | [`docs/recursos.md`](docs/recursos.md) | O que dá e o que **não** dá pra fazer (responder mensagens, etc.) |
 | [`docs/integracao-yt-pub-livesx.md`](docs/integracao-yt-pub-livesx.md) | Proposta de integração com o pipeline de clips |
 | [`docs/comparativo-blotato.md`](docs/comparativo-blotato.md) | Metricool vs Blotato — quando cada uma vale |
+| [`docs/comparativo-zernio.md`](docs/comparativo-zernio.md) | Zernio — API + MCP, $6/mês pro caso INEMA, hospeda mídia |
 
 ## O fluxo, em 10 linhas
 
